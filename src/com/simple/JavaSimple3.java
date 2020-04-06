@@ -1,9 +1,9 @@
 package com.simple;
 
-public class JavaSimple {
+public class JavaSimple3 {
 
 	public static void main(String[] args) {
-		//Hi this is a new change
+		
 			
 			String s="hungry";
 					if(s=="hungry"){
